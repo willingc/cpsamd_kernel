@@ -2,7 +2,7 @@ cpsamd_kernel
 =============
 
 This is a pre-alpha proof of concept. Use at your own peril.
-For Adafruit Feather MO on MacOS with Jupyter notebook.
+For Adafruit Feather M0 on MacOS with Jupyter notebook.
 
 Installation
 ------------
