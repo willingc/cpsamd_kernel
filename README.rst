@@ -1,9 +1,8 @@
 cpsamd_kernel
 =============
 
-.. note::
-    This is a pre-alpha proof of concept. Use at your own peril.
-    Adafruit Feather MO on MacOS with Jupyter notebook.
+This is a pre-alpha proof of concept. Use at your own peril.
+For Adafruit Feather MO on MacOS with Jupyter notebook.
 
 Installation
 ------------
